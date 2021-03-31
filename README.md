@@ -1,1 +1,1 @@
-# XILOM token ecosystem
+# erc20 token example
